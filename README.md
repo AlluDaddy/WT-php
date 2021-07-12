@@ -1,3 +1,3 @@
 # WT-php
 
-[[/images/path/to/|ALT TEXT]]
+[[https://github.com/AlluDaddy/WT-php/blob/main/image.png/|ALT TEXT]]
